@@ -65,3 +65,5 @@ install_package "https://github.com/mattn/emmet-vim"
 install_package "https://github.com/nathanaelkane/vim-indent-guides"
 # fix unwanted trailing whitepsace
 install_package "https://github.com/bronson/vim-trailing-whitespace"
+# install vue support
+install_package "https://github.com/posva/vim-vue"
